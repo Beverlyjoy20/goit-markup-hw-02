@@ -45,7 +45,8 @@ button:hover {
 }
 button {
   background-color: #4d5ae5;
-  color: white;
+  color: #f4f4fd;
+  border-radius: 4px;
 }
 
 /* Main CSS */
