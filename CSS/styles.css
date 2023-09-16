@@ -22,12 +22,18 @@
   color: black;
   font-size: 16px;
 }
+.link:hover {
+  color: gray;
+}
+.link2:hover {
+  color: gray;
+}
 
 /* Title heading CSS */
 
 button:hover {
-  background-color: lightskyblue;
-  color: black;
+  background-color: #4d5ae5;
+  color: #f4f4fd;
 }
 
 .title {
@@ -44,9 +50,8 @@ button:hover {
   color: #f4f4fd;
 }
 button {
-  background-color: #4d5ae5;
-  color: #f4f4fd;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 /* Main CSS */
@@ -95,4 +100,11 @@ li {
 .footerdetails {
   color: #f4f4fd;
   font-size: 14px;
+}
+
+/*porfolio page styles*/
+/* Portfolio main Css*/
+
+.portfoliodetails {
+  padding-bottom: 1%;
 }
